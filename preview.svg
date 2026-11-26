@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 164" width="760" height="164" role="img" aria-label="agy-statusline terminal preview">
+  <rect x="0.5" y="0.5" width="759" height="163" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <circle cx="22" cy="18" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="18" r="5" fill="#ffbd2e"/>
+  <circle cx="58" cy="18" r="5" fill="#27c93f"/>
+  <text x="76" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6e7681">agy — statusline.py</text>
+  <line x1="1" y1="32" x2="759" y2="32" stroke="#21262d" stroke-width="1"/>
+
+  <text x="20" y="50" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" fill="#6e7681">Orchestrator (planning turn)</text>
+  <text x="20" y="68" xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13"><tspan fill="#56d4dd" font-weight="700">Research</tspan><tspan fill="#6e7681"> | </tspan><tspan fill="#8b949e">orch/plan:</tspan><tspan fill="#d2a8ff"> Gemini 4 Neon</tspan><tspan fill="#8b949e"> high</tspan><tspan fill="#6e7681"> | </tspan><tspan fill="#8b949e">ctx: </tspan><tspan fill="#3fb950">21%</tspan><tspan fill="#6e7681"> | </tspan><tspan fill="#8b949e">5hr: </tspan><tspan fill="#3fb950">62%</tspan><tspan fill="#6e7681"> | </tspan><tspan fill="#8b949e">7d: </tspan><tspan fill="#3fb950">80%</tspan></text>
+
+  <text x="20" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" fill="#6e7681">Orchestrator (execution turn)</text>
+  <text x="20" y="110" xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13"><tspan fill="#56d4dd" font-weight="700">Research</tspan><tspan fill="#6e7681"> | </tspan><tspan fill="#8b949e">orch/exec:</tspan><tspan fill="#d2a8ff"> Gemini 4 Hydrogen</tspan><tspan fill="#8b949e"> xhigh</tspan><tspan fill="#6e7681"> | </tspan><tspan fill="#8b949e">ctx: </tspan><tspan fill="#d29922">64%</tspan><tspan fill="#6e7681"> | </tspan><tspan fill="#8b949e">5hr: </tspan><tspan fill="#f85149">19%</tspan><tspan fill="#6e7681"> | </tspan><tspan fill="#8b949e">7d: </tspan><tspan fill="#3fb950">80%</tspan></text>
+
+  <text x="20" y="134" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" fill="#6e7681">Single model (3p quota pool)</text>
+  <text x="20" y="152" xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13"><tspan fill="#56d4dd" font-weight="700">Research</tspan><tspan fill="#6e7681"> | </tspan><tspan fill="#d2a8ff">Claude Sonnet 4.6</tspan><tspan fill="#8b949e"> thinking</tspan><tspan fill="#6e7681"> | </tspan><tspan fill="#8b949e">ctx: </tspan><tspan fill="#f85149">86%</tspan><tspan fill="#6e7681"> | </tspan><tspan fill="#8b949e">5hr: </tspan><tspan fill="#d29922">42%</tspan><tspan fill="#6e7681"> | </tspan><tspan fill="#8b949e">7d: </tspan><tspan fill="#3fb950">71%</tspan></text>
+</svg>
